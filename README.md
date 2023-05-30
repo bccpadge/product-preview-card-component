@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-grid-L-BFNj7CL7)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -68,7 +68,7 @@ I want to continue learning more about web accessibility while builing these pro
 
 ### Useful resources
 
-- [visually hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [visually hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html) - I used the visually hidden class on the price group to help differentiate the current price and orginal price for screen readers. I really liked this pattern and will use it going forward.
 
 ## Author
 
