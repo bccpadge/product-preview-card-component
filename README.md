@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-| Mobile                                 | Desktop                                 |
-| -------------------------------------- | --------------------------------------- |
-| ![](./mobile-product-preview-card.png) | ![](./desktop-product-preview-card.png) |
+| Mobile                                            | Desktop                                            |
+| ------------------------------------------------- | -------------------------------------------------- |
+| ![](./screenshot/mobile-product-preview-card.png) | ![](./screenshot/desktop-product-preview-card.png) |
 
 ### Links
 
